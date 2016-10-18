@@ -35,6 +35,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+Link to the .gif file in case the video walkthrough doesnot load: - http://i.imgur.com/mslXM0H.gif
+
 ## License
 
     Copyright [2016] [Sneha Pimpalkar]
