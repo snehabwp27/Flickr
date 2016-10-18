@@ -20,6 +20,5 @@ The following required functionality is complete:
 
 Video Walkthrough:
 
-
-<img src='http://i.imgur.com/mslXM0H.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+http://i.imgur.com/mslXM0H.gif
 
