@@ -19,5 +19,7 @@ The following required functionality is complete:
 
 
 Video Walkthrough:
-http://i.imgur.com/mslXM0H.gif
+
+
+<img src='http://i.imgur.com/mslXM0H.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
