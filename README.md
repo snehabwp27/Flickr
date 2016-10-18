@@ -18,6 +18,6 @@ The following required functionality is complete:
 [Done] Add Pull to Refresh
 
 
-Video Demo:
+Video Walkthrough:
 http://i.imgur.com/mslXM0H.gif
 
